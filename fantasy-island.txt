@@ -42,7 +42,7 @@ You're my breath (You are my breath)
            C#               B
 You're the taste (You are a part)
 
-         Ebm
+         E
 You're a part of my soul
 
            F#
@@ -54,7 +54,7 @@ You're my breath (You are my breath)
            C#               B
 You're the taste (You are a part)
 
-         Ebm
+         E
 You're a part of my soul
 
            F#
@@ -106,7 +106,7 @@ You're my breath (You are my breath)
            C#               B
 You're the taste (You are a part)
 
-         Ebm
+         E
 You're a part of my soul
 
            F#
@@ -118,7 +118,7 @@ You're my breath (You are my breath)
            C#               B
 You're the taste (You are a part)
 
-         Ebm
+         E
 You're a part of my soul
 
            F#
